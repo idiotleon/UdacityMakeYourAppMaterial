@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.0.0_eb65ebf8dd5f7cf3825df038f0e90024b1887e3b.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_010b7dd069e2fd48efce507abf233df5ecbf5ab9.jar" />
+    </item>
+    <item
+        jar="C:\Users\v-ylangu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_3e9475b1c2394155544f2c1c8e3608ea4809ce85.jar" />
+    </item>
+    <item
+        jar="C:\Users\v-ylangu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_363b0ec0e6be5527261a897808d11b5a5dc9753c.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_5aa38e203902b02def7506b6c2e596fbd4ee692f.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_0b9d35df7145f7e1312450f0b4d6b21ffc700522.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_fce35fb470166fe366a95171ff3277a1bb369e47.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.0.0_5d3a849d6272f0f5c3b7ac8d002bd2cd8da93376.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f48a024cf14a3bad9ce8a9b80419fc9ff5a9c0af">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ba523441e5c8bff72f0e18db0b8ef317b15e3542.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_cb61ab2b19bde50ac2e7b97fc0f812187a9a5d6e.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.0.0_76d5d2f3b17306d79d6b1c464c5c1acd50ba35fa.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="870b9d3fccd7f0195b235830a3e9067bfaff1977">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\instant-run_b22b89d7c332bdca2826706d6cf69a0d7cfba4e0.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_8845c5b40e3eba6e4fc3211ac7e1f7f0cd2ab0e3.jar" />
+    </item>
+    <item
+        jar="C:\Leon\Software\Matrix\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_7e20f966664ae8387ff41f7edbda1748b371e925.jar" />
+    </item>
+
+</items>
