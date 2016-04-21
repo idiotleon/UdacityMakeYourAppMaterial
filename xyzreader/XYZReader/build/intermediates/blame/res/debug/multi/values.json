@@ -6236,14 +6236,7 @@
                     "endOffset": 124385
                 },
                 "from": {
-                    "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 753,
-                        "endColumn": 91,
-                        "endOffset": 840
-                    }
+                    "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
@@ -6264,21 +6257,9 @@
                     "startLine": 1571,
                     "startColumn": 4,
                     "startOffset": 124553,
-                    "endColumn": 57,
-                    "endOffset": 124606
-                },
-                "from": {
-                    "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1572,
-                    "startColumn": 4,
-                    "startOffset": 124611,
-                    "endLine": 1574,
+                    "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 124760
+                    "endOffset": 124702
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6286,12 +6267,12 @@
             },
             {
                 "to": {
-                    "startLine": 1575,
+                    "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 124765,
-                    "endLine": 1579,
+                    "startOffset": 124707,
+                    "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 125118
+                    "endOffset": 125060
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6299,12 +6280,12 @@
             },
             {
                 "to": {
-                    "startLine": 1580,
+                    "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 125123,
-                    "endLine": 1582,
+                    "startOffset": 125065,
+                    "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 125285
+                    "endOffset": 125227
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6312,12 +6293,12 @@
             },
             {
                 "to": {
-                    "startLine": 1583,
+                    "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 125290,
-                    "endLine": 1587,
+                    "startOffset": 125232,
+                    "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 125655
+                    "endOffset": 125597
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6325,12 +6306,12 @@
             },
             {
                 "to": {
-                    "startLine": 1588,
+                    "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 125660,
-                    "endLine": 1591,
+                    "startOffset": 125602,
+                    "endLine": 1590,
                     "endColumn": 12,
-                    "endOffset": 125815
+                    "endOffset": 125757
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6338,24 +6319,36 @@
             },
             {
                 "to": {
-                    "startLine": 1592,
+                    "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 125820,
-                    "endLine": 1595,
+                    "startOffset": 125762,
+                    "endLine": 1594,
                     "endColumn": 12,
-                    "endOffset": 125969
+                    "endOffset": 125911
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1595,
+                    "startColumn": 4,
+                    "startOffset": 125916,
+                    "endColumn": 79,
+                    "endOffset": 125991
+                },
+                "from": {
+                    "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 125974,
-                    "endColumn": 79,
-                    "endOffset": 126049
+                    "startOffset": 125996,
+                    "endColumn": 99,
+                    "endOffset": 126091
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6365,9 +6358,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 126054,
-                    "endColumn": 99,
-                    "endOffset": 126149
+                    "startOffset": 126096,
+                    "endColumn": 89,
+                    "endOffset": 126181
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6377,9 +6370,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 126154,
-                    "endColumn": 89,
-                    "endOffset": 126239
+                    "startOffset": 126186,
+                    "endColumn": 109,
+                    "endOffset": 126291
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6389,9 +6382,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 126244,
-                    "endColumn": 109,
-                    "endOffset": 126349
+                    "startOffset": 126296,
+                    "endColumn": 91,
+                    "endOffset": 126383
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6401,9 +6394,10 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 126354,
-                    "endColumn": 91,
-                    "endOffset": 126441
+                    "startOffset": 126388,
+                    "endLine": 1601,
+                    "endColumn": 12,
+                    "endOffset": 126483
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6411,12 +6405,12 @@
             },
             {
                 "to": {
-                    "startLine": 1601,
+                    "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 126446,
-                    "endLine": 1602,
+                    "startOffset": 126488,
+                    "endLine": 1603,
                     "endColumn": 12,
-                    "endOffset": 126541
+                    "endOffset": 126595
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6424,12 +6418,12 @@
             },
             {
                 "to": {
-                    "startLine": 1603,
+                    "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 126546,
-                    "endLine": 1604,
+                    "startOffset": 126600,
+                    "endLine": 1605,
                     "endColumn": 12,
-                    "endOffset": 126653
+                    "endOffset": 126709
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6437,12 +6431,12 @@
             },
             {
                 "to": {
-                    "startLine": 1605,
+                    "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 126658,
-                    "endLine": 1606,
+                    "startOffset": 126714,
+                    "endLine": 1607,
                     "endColumn": 12,
-                    "endOffset": 126767
+                    "endOffset": 126825
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6450,12 +6444,12 @@
             },
             {
                 "to": {
-                    "startLine": 1607,
+                    "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 126772,
-                    "endLine": 1608,
+                    "startOffset": 126830,
+                    "endLine": 1609,
                     "endColumn": 12,
-                    "endOffset": 126883
+                    "endOffset": 126941
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6463,12 +6457,11 @@
             },
             {
                 "to": {
-                    "startLine": 1609,
+                    "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 126888,
-                    "endLine": 1610,
-                    "endColumn": 12,
-                    "endOffset": 126999
+                    "startOffset": 126946,
+                    "endColumn": 93,
+                    "endOffset": 127035
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6478,9 +6471,9 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 127004,
-                    "endColumn": 93,
-                    "endOffset": 127093
+                    "startOffset": 127040,
+                    "endColumn": 113,
+                    "endOffset": 127149
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6490,9 +6483,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 127098,
-                    "endColumn": 113,
-                    "endOffset": 127207
+                    "startOffset": 127154,
+                    "endColumn": 111,
+                    "endOffset": 127261
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6502,9 +6495,10 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 127212,
-                    "endColumn": 111,
-                    "endOffset": 127319
+                    "startOffset": 127266,
+                    "endLine": 1614,
+                    "endColumn": 12,
+                    "endOffset": 127363
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6512,12 +6506,12 @@
             },
             {
                 "to": {
-                    "startLine": 1614,
+                    "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 127324,
-                    "endLine": 1615,
+                    "startOffset": 127368,
+                    "endLine": 1616,
                     "endColumn": 12,
-                    "endOffset": 127421
+                    "endOffset": 127483
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6525,12 +6519,12 @@
             },
             {
                 "to": {
-                    "startLine": 1616,
+                    "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 127426,
-                    "endLine": 1617,
+                    "startOffset": 127488,
+                    "endLine": 1618,
                     "endColumn": 12,
-                    "endOffset": 127541
+                    "endOffset": 127605
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6538,12 +6532,11 @@
             },
             {
                 "to": {
-                    "startLine": 1618,
+                    "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 127546,
-                    "endLine": 1619,
-                    "endColumn": 12,
-                    "endOffset": 127663
+                    "startOffset": 127610,
+                    "endColumn": 81,
+                    "endOffset": 127687
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6553,9 +6546,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 127668,
-                    "endColumn": 81,
-                    "endOffset": 127745
+                    "startOffset": 127692,
+                    "endColumn": 103,
+                    "endOffset": 127791
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6565,9 +6558,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 127750,
-                    "endColumn": 103,
-                    "endOffset": 127849
+                    "startOffset": 127796,
+                    "endColumn": 119,
+                    "endOffset": 127911
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6577,9 +6570,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 127854,
-                    "endColumn": 119,
-                    "endOffset": 127969
+                    "startOffset": 127916,
+                    "endColumn": 125,
+                    "endOffset": 128037
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6589,9 +6582,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 127974,
-                    "endColumn": 125,
-                    "endOffset": 128095
+                    "startOffset": 128042,
+                    "endColumn": 97,
+                    "endOffset": 128135
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6601,9 +6594,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 128100,
-                    "endColumn": 97,
-                    "endOffset": 128193
+                    "startOffset": 128140,
+                    "endColumn": 93,
+                    "endOffset": 128229
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6613,9 +6606,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 128198,
-                    "endColumn": 93,
-                    "endOffset": 128287
+                    "startOffset": 128234,
+                    "endColumn": 87,
+                    "endOffset": 128317
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6625,9 +6618,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 128292,
-                    "endColumn": 87,
-                    "endOffset": 128375
+                    "startOffset": 128322,
+                    "endColumn": 111,
+                    "endOffset": 128429
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6637,9 +6630,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 128380,
-                    "endColumn": 111,
-                    "endOffset": 128487
+                    "startOffset": 128434,
+                    "endColumn": 115,
+                    "endOffset": 128545
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6649,9 +6642,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 128492,
-                    "endColumn": 115,
-                    "endOffset": 128603
+                    "startOffset": 128550,
+                    "endColumn": 121,
+                    "endOffset": 128667
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6661,9 +6654,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 128608,
-                    "endColumn": 121,
-                    "endOffset": 128725
+                    "startOffset": 128672,
+                    "endColumn": 111,
+                    "endOffset": 128779
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6673,9 +6666,10 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 128730,
-                    "endColumn": 111,
-                    "endOffset": 128837
+                    "startOffset": 128784,
+                    "endLine": 1632,
+                    "endColumn": 12,
+                    "endOffset": 128954
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6683,12 +6677,11 @@
             },
             {
                 "to": {
-                    "startLine": 1631,
+                    "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 128842,
-                    "endLine": 1633,
-                    "endColumn": 12,
-                    "endOffset": 129012
+                    "startOffset": 128959,
+                    "endColumn": 115,
+                    "endOffset": 129070
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6698,9 +6691,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 129017,
-                    "endColumn": 115,
-                    "endOffset": 129128
+                    "startOffset": 129075,
+                    "endColumn": 85,
+                    "endOffset": 129156
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6710,9 +6703,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 129133,
-                    "endColumn": 85,
-                    "endOffset": 129214
+                    "startOffset": 129161,
+                    "endColumn": 91,
+                    "endOffset": 129248
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6722,9 +6715,10 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 129219,
-                    "endColumn": 91,
-                    "endOffset": 129306
+                    "startOffset": 129253,
+                    "endLine": 1637,
+                    "endColumn": 12,
+                    "endOffset": 129360
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6732,12 +6726,12 @@
             },
             {
                 "to": {
-                    "startLine": 1637,
+                    "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 129311,
-                    "endLine": 1638,
+                    "startOffset": 129365,
+                    "endLine": 1639,
                     "endColumn": 12,
-                    "endOffset": 129418
+                    "endOffset": 129484
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6745,12 +6739,11 @@
             },
             {
                 "to": {
-                    "startLine": 1639,
+                    "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 129423,
-                    "endLine": 1640,
-                    "endColumn": 12,
-                    "endOffset": 129542
+                    "startOffset": 129489,
+                    "endColumn": 66,
+                    "endOffset": 129551
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6760,9 +6753,10 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 129547,
-                    "endColumn": 66,
-                    "endOffset": 129609
+                    "startOffset": 129556,
+                    "endLine": 1642,
+                    "endColumn": 12,
+                    "endOffset": 129677
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6770,12 +6764,11 @@
             },
             {
                 "to": {
-                    "startLine": 1642,
+                    "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 129614,
-                    "endLine": 1643,
-                    "endColumn": 12,
-                    "endOffset": 129735
+                    "startOffset": 129682,
+                    "endColumn": 67,
+                    "endOffset": 129745
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6785,9 +6778,10 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 129740,
-                    "endColumn": 67,
-                    "endOffset": 129803
+                    "startOffset": 129750,
+                    "endLine": 1645,
+                    "endColumn": 12,
+                    "endOffset": 129873
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6795,12 +6789,12 @@
             },
             {
                 "to": {
-                    "startLine": 1645,
+                    "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 129808,
-                    "endLine": 1646,
+                    "startOffset": 129878,
+                    "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 129931
+                    "endOffset": 130017
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6808,12 +6802,12 @@
             },
             {
                 "to": {
-                    "startLine": 1647,
+                    "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 129936,
-                    "endLine": 1648,
+                    "startOffset": 130022,
+                    "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 130075
+                    "endOffset": 130145
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6821,12 +6815,11 @@
             },
             {
                 "to": {
-                    "startLine": 1649,
+                    "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 130080,
-                    "endLine": 1650,
-                    "endColumn": 12,
-                    "endOffset": 130203
+                    "startOffset": 130150,
+                    "endColumn": 68,
+                    "endOffset": 130214
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6836,9 +6829,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 130208,
-                    "endColumn": 68,
-                    "endOffset": 130272
+                    "startOffset": 130219,
+                    "endColumn": 94,
+                    "endOffset": 130309
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6848,9 +6841,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 130277,
-                    "endColumn": 94,
-                    "endOffset": 130367
+                    "startOffset": 130314,
+                    "endColumn": 114,
+                    "endOffset": 130424
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6860,9 +6853,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 130372,
-                    "endColumn": 114,
-                    "endOffset": 130482
+                    "startOffset": 130429,
+                    "endColumn": 112,
+                    "endOffset": 130537
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6872,9 +6865,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 130487,
-                    "endColumn": 112,
-                    "endOffset": 130595
+                    "startOffset": 130542,
+                    "endColumn": 98,
+                    "endOffset": 130636
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6884,9 +6877,9 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 130600,
-                    "endColumn": 98,
-                    "endOffset": 130694
+                    "startOffset": 130641,
+                    "endColumn": 108,
+                    "endOffset": 130745
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6896,9 +6889,9 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 130699,
-                    "endColumn": 108,
-                    "endOffset": 130803
+                    "startOffset": 130750,
+                    "endColumn": 110,
+                    "endOffset": 130856
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6908,9 +6901,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 130808,
+                    "startOffset": 130861,
                     "endColumn": 110,
-                    "endOffset": 130914
+                    "endOffset": 130967
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6920,9 +6913,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 130919,
-                    "endColumn": 110,
-                    "endOffset": 131025
+                    "startOffset": 130972,
+                    "endColumn": 100,
+                    "endOffset": 131068
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6932,9 +6925,9 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 131030,
-                    "endColumn": 100,
-                    "endOffset": 131126
+                    "startOffset": 131073,
+                    "endColumn": 104,
+                    "endOffset": 131173
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6944,9 +6937,10 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 131131,
-                    "endColumn": 104,
-                    "endOffset": 131231
+                    "startOffset": 131178,
+                    "endLine": 1661,
+                    "endColumn": 12,
+                    "endOffset": 131285
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6954,12 +6948,12 @@
             },
             {
                 "to": {
-                    "startLine": 1661,
+                    "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 131236,
-                    "endLine": 1662,
+                    "startOffset": 131290,
+                    "endLine": 1663,
                     "endColumn": 12,
-                    "endOffset": 131343
+                    "endOffset": 131415
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6967,12 +6961,11 @@
             },
             {
                 "to": {
-                    "startLine": 1663,
+                    "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 131348,
-                    "endLine": 1664,
-                    "endColumn": 12,
-                    "endOffset": 131473
+                    "startOffset": 131420,
+                    "endColumn": 90,
+                    "endOffset": 131506
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6982,9 +6975,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 131478,
-                    "endColumn": 90,
-                    "endOffset": 131564
+                    "startOffset": 131511,
+                    "endColumn": 122,
+                    "endOffset": 131629
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6994,9 +6987,10 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 131569,
-                    "endColumn": 122,
-                    "endOffset": 131687
+                    "startOffset": 131634,
+                    "endLine": 1667,
+                    "endColumn": 12,
+                    "endOffset": 131741
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7004,12 +6998,11 @@
             },
             {
                 "to": {
-                    "startLine": 1667,
+                    "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 131692,
-                    "endLine": 1668,
-                    "endColumn": 12,
-                    "endOffset": 131799
+                    "startOffset": 131746,
+                    "endColumn": 85,
+                    "endOffset": 131827
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7019,9 +7012,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 131804,
-                    "endColumn": 85,
-                    "endOffset": 131885
+                    "startOffset": 131832,
+                    "endColumn": 103,
+                    "endOffset": 131931
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7031,9 +7024,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 131890,
-                    "endColumn": 103,
-                    "endOffset": 131989
+                    "startOffset": 131936,
+                    "endLine": 1671,
+                    "endColumn": 12,
+                    "endOffset": 132039
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7041,12 +7035,12 @@
             },
             {
                 "to": {
-                    "startLine": 1671,
+                    "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 131994,
-                    "endLine": 1672,
+                    "startOffset": 132044,
+                    "endLine": 1673,
                     "endColumn": 12,
-                    "endOffset": 132097
+                    "endOffset": 132139
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7054,12 +7048,12 @@
             },
             {
                 "to": {
-                    "startLine": 1673,
+                    "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 132102,
-                    "endLine": 1674,
+                    "startOffset": 132144,
+                    "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 132197
+                    "endOffset": 132257
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7067,12 +7061,12 @@
             },
             {
                 "to": {
-                    "startLine": 1675,
+                    "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 132202,
-                    "endLine": 1676,
+                    "startOffset": 132262,
+                    "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 132315
+                    "endOffset": 132361
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7080,12 +7074,12 @@
             },
             {
                 "to": {
-                    "startLine": 1677,
+                    "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 132320,
-                    "endLine": 1678,
+                    "startOffset": 132366,
+                    "endLine": 1679,
                     "endColumn": 12,
-                    "endOffset": 132419
+                    "endOffset": 132465
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7093,12 +7087,12 @@
             },
             {
                 "to": {
-                    "startLine": 1679,
+                    "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 132424,
-                    "endLine": 1680,
+                    "startOffset": 132470,
+                    "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 132523
+                    "endOffset": 132591
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7106,12 +7100,11 @@
             },
             {
                 "to": {
-                    "startLine": 1681,
+                    "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 132528,
-                    "endLine": 1682,
-                    "endColumn": 12,
-                    "endOffset": 132649
+                    "startOffset": 132596,
+                    "endColumn": 87,
+                    "endOffset": 132679
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7121,9 +7114,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 132654,
-                    "endColumn": 87,
-                    "endOffset": 132737
+                    "startOffset": 132684,
+                    "endColumn": 107,
+                    "endOffset": 132787
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7133,9 +7126,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 132742,
-                    "endColumn": 107,
-                    "endOffset": 132845
+                    "startOffset": 132792,
+                    "endColumn": 99,
+                    "endOffset": 132887
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7145,9 +7138,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 132850,
-                    "endColumn": 99,
-                    "endOffset": 132945
+                    "startOffset": 132892,
+                    "endColumn": 89,
+                    "endOffset": 132977
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7157,9 +7150,9 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 132950,
-                    "endColumn": 89,
-                    "endOffset": 133035
+                    "startOffset": 132982,
+                    "endColumn": 109,
+                    "endOffset": 133087
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7169,9 +7162,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 133040,
-                    "endColumn": 109,
-                    "endOffset": 133145
+                    "startOffset": 133092,
+                    "endColumn": 83,
+                    "endOffset": 133171
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7181,9 +7174,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 133150,
+                    "startOffset": 133176,
                     "endColumn": 83,
-                    "endOffset": 133229
+                    "endOffset": 133255
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7193,9 +7186,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 133234,
-                    "endColumn": 83,
-                    "endOffset": 133313
+                    "startOffset": 133260,
+                    "endColumn": 53,
+                    "endOffset": 133309
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7205,9 +7198,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 133318,
-                    "endColumn": 53,
-                    "endOffset": 133367
+                    "startOffset": 133314,
+                    "endColumn": 63,
+                    "endOffset": 133373
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7217,9 +7210,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 133372,
-                    "endColumn": 63,
-                    "endOffset": 133431
+                    "startOffset": 133378,
+                    "endColumn": 105,
+                    "endOffset": 133479
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7229,9 +7222,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 133436,
-                    "endColumn": 105,
-                    "endOffset": 133537
+                    "startOffset": 133484,
+                    "endColumn": 109,
+                    "endOffset": 133589
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7241,9 +7234,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 133542,
-                    "endColumn": 109,
-                    "endOffset": 133647
+                    "startOffset": 133594,
+                    "endColumn": 83,
+                    "endOffset": 133673
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7253,9 +7246,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 133652,
-                    "endColumn": 83,
-                    "endOffset": 133731
+                    "startOffset": 133678,
+                    "endColumn": 119,
+                    "endOffset": 133793
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7265,22 +7258,10 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 133736,
-                    "endColumn": 119,
-                    "endOffset": 133851
-                },
-                "from": {
-                    "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1696,
-                    "startColumn": 4,
-                    "startOffset": 133856,
-                    "endLine": 1699,
+                    "startOffset": 133798,
+                    "endLine": 1698,
                     "endColumn": 12,
-                    "endOffset": 134069
+                    "endOffset": 134011
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7288,12 +7269,12 @@
             },
             {
                 "to": {
-                    "startLine": 1700,
+                    "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 134074,
-                    "endLine": 1705,
+                    "startOffset": 134016,
+                    "endLine": 1704,
                     "endColumn": 12,
-                    "endOffset": 134467
+                    "endOffset": 134409
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7301,12 +7282,12 @@
             },
             {
                 "to": {
-                    "startLine": 1706,
+                    "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 134472,
-                    "endLine": 1709,
+                    "startOffset": 134414,
+                    "endLine": 1708,
                     "endColumn": 12,
-                    "endOffset": 134674
+                    "endOffset": 134616
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7314,12 +7295,12 @@
             },
             {
                 "to": {
-                    "startLine": 1710,
+                    "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 134679,
-                    "endLine": 1712,
+                    "startOffset": 134621,
+                    "endLine": 1711,
                     "endColumn": 12,
-                    "endOffset": 134833
+                    "endOffset": 134775
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7327,12 +7308,12 @@
             },
             {
                 "to": {
-                    "startLine": 1713,
+                    "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 134838,
-                    "endLine": 1721,
+                    "startOffset": 134780,
+                    "endLine": 1720,
                     "endColumn": 12,
-                    "endOffset": 135400
+                    "endOffset": 135342
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7340,12 +7321,12 @@
             },
             {
                 "to": {
-                    "startLine": 1722,
+                    "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 135405,
-                    "endLine": 1727,
+                    "startOffset": 135347,
+                    "endLine": 1726,
                     "endColumn": 12,
-                    "endOffset": 135761
+                    "endOffset": 135703
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7353,12 +7334,12 @@
             },
             {
                 "to": {
-                    "startLine": 1728,
+                    "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 135766,
-                    "endLine": 1730,
+                    "startOffset": 135708,
+                    "endLine": 1729,
                     "endColumn": 12,
-                    "endOffset": 135890
+                    "endOffset": 135832
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7366,12 +7347,12 @@
             },
             {
                 "to": {
-                    "startLine": 1731,
+                    "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 135895,
-                    "endLine": 1740,
+                    "startOffset": 135837,
+                    "endLine": 1739,
                     "endColumn": 12,
-                    "endOffset": 136634
+                    "endOffset": 136576
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7379,12 +7360,12 @@
             },
             {
                 "to": {
-                    "startLine": 1741,
+                    "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 136639,
-                    "endLine": 1744,
+                    "startOffset": 136581,
+                    "endLine": 1743,
                     "endColumn": 12,
-                    "endOffset": 136814
+                    "endOffset": 136756
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7392,12 +7373,12 @@
             },
             {
                 "to": {
-                    "startLine": 1745,
+                    "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 136819,
-                    "endLine": 1750,
+                    "startOffset": 136761,
+                    "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 137255
+                    "endOffset": 137197
                 },
                 "from": {
                     "file": "C:\\Leon\\Udacity\\5MakeYourAppMaterial\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"

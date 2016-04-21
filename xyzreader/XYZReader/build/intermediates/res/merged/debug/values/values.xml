@@ -1569,7 +1569,6 @@
         <item name="android:statusBarColor" ns1:targetApi="lollipop">@android:color/transparent
         </item>
     </style>
-    <style name="Theme.Bacon2" parent="Theme.AppCompat"/>
     <style name="Theme.Design" parent="Theme.AppCompat">
         <item name="textColorError">@color/design_textinput_error_color_dark</item>
     </style>
