@@ -61,7 +61,6 @@ public class ArticleListActivity extends AppCompatActivity implements
             }
         });
 
-
         final View toolbarContainerView = findViewById(R.id.toolbar_container);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
