@@ -4,7 +4,7 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="1148257541857505" >
+    timestamp="1148825885663735" >
 
     <task
         name="javac"
@@ -20,13 +20,18 @@
         duration="0" />
 
     <artifact
-        location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
     <build timestamp="1148257541857505" >
         <artifact
             location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="1148825885663735" >
+        <artifact
+            location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
