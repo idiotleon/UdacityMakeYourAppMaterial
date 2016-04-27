@@ -4,34 +4,43 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="1148825885663735" >
+    timestamp="1149502940858919"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1522" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="582" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="109" />
     <task
         name="verifier"
-        duration="0" />
+        duration="29" />
 
     <artifact
         location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
+    <artifact
+        location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build timestamp="1148257541857505" >
         <artifact
             location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="1148825885663735" >
+    <build
+        timestamp="1149502940858919"
+        verifier="COMPATIBLE" >
         <artifact
             location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
+        <artifact
+            location="C:\Leon\Udacity\5MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
